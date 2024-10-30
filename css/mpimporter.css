@@ -1,0 +1,26 @@
+/**** MarketPress Product Importer Styles ***********/
+ul.mpimporter-lists {
+	list-style-type:circle !important;
+}
+ul.mpimporter-lists li {
+	margin: 5px 5px 5px 30px !important;
+}
+p.submit {
+	padding: .75em 0 !important;
+	float:none !important;
+}
+.ajaxsave {
+}
+.postbox {
+	margin:0 10px 10px 0 !important;
+}
+.noprod {
+	background-color:#E2E2FE;
+	border-color:#666666;
+	padding:7px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	font-weight:bold;
+}
